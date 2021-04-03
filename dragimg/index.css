@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#display-img {
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+#img-file {
+    display: none;
+}
+
+#preview-img {
+    width: 300px;
+    height: 300px;
+}
