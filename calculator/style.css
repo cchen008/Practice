@@ -1,0 +1,54 @@
+#outer-box {
+    border: 1px solid black;
+    border-radius: 10px;
+    position: relative;
+    margin: auto;
+    width: 500px;
+    height: 585px;
+    top: 100px;
+    background-color: #8489a1;
+}
+
+#screen {
+    border: 1px solid black;
+    border-radius: 10px;
+    position: relative;
+    width: 470px;
+    height: 110px;
+    top: 20px;
+    left: 15px;
+    margin-bottom: 60px;
+    background-color: white;
+}
+
+#button-box {
+    border: 1px solid black;
+    position: relative;
+    width: 480px;
+    height: 470px;
+    top: 17px;
+    left: 9px;
+}
+
+.flex-row {
+    position: relative;
+    width: 480px;
+    height: 100px;
+    margin-left: 10px;
+}
+
+.p-1 {
+    border-radius: 10px;
+    position: relative;
+    width: 120px;
+    left: 4px;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 10px;
+    position: relative;
+    font-size: 50px;
+    text-align: center;
+    width: 100px;
+}
