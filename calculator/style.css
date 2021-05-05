@@ -52,3 +52,9 @@ button {
     text-align: center;
     width: 100px;
 }
+
+#display {
+    float: right;
+    font-size: 55px;
+    margin: 15px;
+}
